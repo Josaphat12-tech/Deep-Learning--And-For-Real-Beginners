@@ -1,2 +1,2 @@
 # Gradient-Descent-For-Neuron-Network
-Basics Deep learning Tutorials 
+Deep learning Basic Tutorials With Josaphat JB
