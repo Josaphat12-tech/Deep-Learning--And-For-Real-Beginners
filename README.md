@@ -1,4 +1,3 @@
-# Gradient-Descent-For-Neuron-Network
 # Deep learning Basic Tutorials With Josaphat JB
 
 ### Hi there 👋
@@ -32,4 +31,4 @@
 - My favorite machine at the gym is the vending machine 😄😄😄
 
 
-# 👋😄😄😄Welcome To My GitHub Account ⚡⚡⚡⚡⚡⚡
+# 👋😄😄😄Welcome To My GitHub Deep learning Basic Tutorials Repository With  Bitingo Josaphat JB ⚡⚡⚡⚡⚡⚡
